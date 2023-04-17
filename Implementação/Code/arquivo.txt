@@ -1,3 +1,0 @@
-TesteLinha1: Editor de texto123 #@&
-TesteLinha2: Dia de hoje - 17/04/2023
-TesteLinha3: dsaokd0912381kjK@#381283
